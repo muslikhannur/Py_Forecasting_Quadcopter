@@ -1,2 +1,5 @@
 # Py_Forecasting_Quadcopter
-Base Model of Quadcopter Coordinate Forecasting (DSC ITToday 2019)
+
+Topic: Quadcopter Coordinate Forecasting
+Competition: DSC ITToday IPB 2019 Preliminary Stage
+Result: 3rd Place Winner
